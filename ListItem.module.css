@@ -1,0 +1,8 @@
+.postcards
+{
+ width: 35rem;
+}
+.postcards:hover
+{ 
+  width:50rem ;
+}

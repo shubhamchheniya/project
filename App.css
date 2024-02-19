@@ -1,0 +1,56 @@
+ *
+ {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  box-sizing: border-box;
+  
+ }
+ .App
+ {
+  width: 1200px;
+ }
+ .post-list
+ {
+  min-width: 50%;
+  display: flex;
+  justify-content:   center;
+   flex-wrap: wrap;
+ }
+ .role
+ {
+  display: flex;
+   
+  
+ }
+ .date
+ {
+  position: absolute;
+  right: 15px;
+ 
+ }
+ 
+ .learn-more-button
+ {
+   position: absolute;
+   left: 240px;
+    top: 150px
+ 
+
+ }
+
+ 
+ .learn-more-button  
+ {
+
+   
+ 
+   border: none ;
+     
+  
+ }
+ 
+ .learn-more-button :active
+ {
+   background-image: none;
+ }
